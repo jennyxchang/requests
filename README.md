@@ -57,6 +57,19 @@ Requests is ready for the demands of building robust and reliable HTTP–speakin
 
 [![Read the Docs](https://raw.githubusercontent.com/psf/requests/main/ext/ss.png)](https://requests.readthedocs.io)
 
+## How to Contribute
+
+All contributions are welcome, as long as everyone involved is treated with respect.
+
+- [Contributing code](https://github.com/psf/requests/blob/main/docs/dev/contributing.rst#code-contributions)
+- [Contributing documentation](https://github.com/psf/requests/blob/main/docs/dev/contributing.rst#documentation-contributions)
+- [Reporting bugs](https://github.com/psf/requests/blob/main/docs/dev/contributing.rst#bug-reports)
+- [Requesting features](https://github.com/psf/requests/blob/main/docs/dev/contributing.rst#feature-requests)
+
+For more details, check out [Contributor's Guide](https://github.com/psf/requests/blob/main/docs/dev/contributing.rst).
+
+If you have any question on how to contribute, feel free to reach out to the primary maintainers [Nate Prewitt](https://www.nateprewitt.com/), [Ian Cordasco](http://www.coglib.com/~icordasc/), or [Seth Michael Larson](https://sethmlarson.dev/).
+
 ## Cloning the repository
 
 When cloning the Requests repository, you may need to add the `-c
